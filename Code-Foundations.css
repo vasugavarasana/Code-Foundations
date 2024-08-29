@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.foundation-card {
+    height: 60vh;
+    background-size: cover;
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.foundation-card-content {
+    padding: 15px;
+}
+
+.foundation-card-heading {
+    color: #323f4b;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.foundation-card-paragraph {
+    color: #cbd2d9;
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.foundation-card-image-container {
+    margin: 15px;
+    width: 140px;
+    border-color: #cbd2d9;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    padding: 8px;
+}
+
+.foundation-card-image {
+    height: 65px;
+    width: 65px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.foundation-card-course-name {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 15px;
+    font-weight: 600;
+}
